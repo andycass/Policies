@@ -161,4 +161,3 @@ England
 You have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please fill out and submit a data subject access request.
 This privacy policy was created using Termly's Privacy Policy Generator.
 
-![image](https://github.com/andycass/Policies/assets/7547043/3fa99eb0-badb-4397-87f0-583ebcc36b1f)
